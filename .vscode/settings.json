@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "BankManagementSystem/src/libraries/jcalendar-tz-1.3.3-4.jar",
+        "BankManagementSystem/src/libraries/mysql-connector-java-8.0.28.jar"
+    ]
+}
